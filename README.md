@@ -6,6 +6,7 @@ If you're looking for a dynamic Software Developer who not only codes but also t
 
 How to reach me: priyakumar150504@gmail.com
 Linkedin:https://www.linkedin.com/in/priya-kumar-653291293/
+Portfolio:https://priyakumar-portfolio.vercel.app/
 
 Languages and Tools:
 Python, Java, JavaScript, React, Tailwind CSS, MongoDB, Git, AI/ML
